@@ -1,0 +1,8 @@
+{
+  "name": "@nx-cloud/ui-primitives",
+  "exports": {
+    "./package.json": "./package.json",
+    ".": "./src/index.ts"
+  },
+  "sideEffects": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@nrwl-ocean/nx-cloud",
+  "private": true,
+  "description": "",
+  "type": "module",
+  "license": "",
+  "scripts": {},
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "@nx-cloud/ui-primitives": "*"
+  }
+}

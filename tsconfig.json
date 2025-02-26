@@ -1,0 +1,16 @@
+{
+  "compileOnSave": false,
+  "include": [],
+  "files": [],
+  "exclude": ["node_modules", "tmp"],
+  "references": [
+    {
+      "path": "./packages/ui-primitives"
+    },
+    {
+      "path": "./apps/nx-cloud"
+    }
+  ],
+  "extends": "./tsconfig.base.json",
+  "includes": []
+}
